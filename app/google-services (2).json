@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695490117826",
+    "firebase_url": "https://hybridoitc-chat-app-default-rtdb.firebaseio.com",
+    "project_id": "hybridoitc-chat-app",
+    "storage_bucket": "hybridoitc-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695490117826:android:3c33e199e6081f3cc4fb5b",
+        "android_client_info": {
+          "package_name": "com.hybridoitc.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695490117826-071u0rsuv8tna6p6ui14oa8uhu916bsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJuYEiNL_OLMSMqsO57gvbdzuuvdnpYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695490117826-071u0rsuv8tna6p6ui14oa8uhu916bsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
