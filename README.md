@@ -1,5 +1,5 @@
 # MASHQULGI #
-This is an open source chat application for students to do testing on
+This is an open source chat application initially created as an opensource asset for chitrali students.
 
 If you want a APK then create an issue, i'll send the link..
 <br><b>ChatApp is a real time one to one chat application with Push Notifications made using Firebase...</b>
